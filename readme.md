@@ -1,3 +1,4 @@
+
 # Reestruturação do Gerenciamento de TCRA com Compensações
 
 Este projeto apresenta a refatoração da rotina de **Plantio** da plataforma web Nexus Verde para o modelo de **Compensações**. A mudança permite representar, no mesmo projeto TCRA, diferentes obrigações ambientais com dados, monitoramentos, atividades, evidências e relatórios próprios.
